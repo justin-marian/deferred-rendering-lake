@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Constants.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\CreatePlane.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\CubeMap.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\FallingStars.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Firefly.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Loader.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\WaterDrops.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Waterfall.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\WaterfallLake.cpp">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\camera_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\scene_input.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\simple_scene.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\text_renderer.cpp">
+      <Filter>src\components</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\engine.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\frame_buffer.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\gpu_buffers.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\mesh.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\shader.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\texture2D.cpp">
+      <Filter>src\core\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\managers\texture_manager.cpp">
+      <Filter>src\core\managers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\window\input_controller.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\window\window_callbacks.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\window\window_object.cpp">
+      <Filter>src\core\window</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\world.cpp">
+      <Filter>src\core</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\gl_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\text_utils.cpp">
+      <Filter>src\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Color.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Default.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\MVP.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\MVP.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Model.Texture.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Normals.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Screen.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Screen.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Simple.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Text.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\Text.VS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\assets\shaders\VertexColor.FS.glsl">
+      <Filter>assets\shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Constants.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\CreatePlane.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\CubeMap.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\FallingStars.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Firefly.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Loader.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader\Framebuffer.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader\Framebuffer.GS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader\Framebuffer.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapNormalShader\Normal.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapNormalShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapNormalShader\Normal.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapNormalShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapReflectionShader\CubeMap.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapReflectionShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\CubeMapReflectionShader\CubeMap.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\CubeMapReflectionShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\DeferredRender2TextureShader\Render2Texture.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\DeferredRender2TextureShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\DeferredRender2TextureShader\Render2Texture.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\DeferredRender2TextureShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\DeferredRenderCompositionShader\Composition.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\DeferredRenderCompositionShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\DeferredRenderCompositionShader\Composition.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\DeferredRenderCompositionShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\DeferredRenderLightPassShader\LightPass.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\DeferredRenderLightPassShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\DeferredRenderLightPassShader\LightPass.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\DeferredRenderLightPassShader</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\FallingStars\FallingStars.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\FallingStars</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\FallingStars\FallingStars.GS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\FallingStars</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\FallingStars\FallingStars.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\FallingStars</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\Firefly\Firefly.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\Firefly</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\Firefly\Firefly.GS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\Firefly</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\Firefly\Firefly.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\Firefly</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\WaterDrops\WaterDrops.FS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\WaterDrops</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\WaterDrops\WaterDrops.GS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\WaterDrops</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Shaders\WaterDrops\WaterDrops.VS.glsl">
+      <Filter>src\DeferredRenderingLake\Shaders\WaterDrops</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Structures.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Utils.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\WaterDrops.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\Waterfall.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\DeferredRenderingLake\WaterfallLake.h">
+      <Filter>src\DeferredRenderingLake</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\camera.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\camera_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\exports.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\scene_input.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\simple_scene.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\text_renderer.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\components\transform.h">
+      <Filter>src\components</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\engine.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\frame_buffer.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\gpu_buffers.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\mesh.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\particle_effect.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\shader.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\ssbo.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\texture2D.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\vertex_bone_data.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\gpu\vertex_format.h">
+      <Filter>src\core\gpu</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\managers\resource_path.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\managers\texture_manager.h">
+      <Filter>src\core\managers</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\window\input_controller.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\window\window_callbacks.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\window\window_object.h">
+      <Filter>src\core\window</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\core\world.h">
+      <Filter>src\core</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\gl_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\glm_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\math_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\memory_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\text_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Asus\Desktop\deferred-rendering-lake\src\utils\window_utils.h">
+      <Filter>src\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\deferred-rendering-lake\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="assets">
+      <UniqueIdentifier>{C4AE158A-E0B7-3336-AF52-2310B84CB39D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\shaders">
+      <UniqueIdentifier>{3012EFAE-7DFF-3825-8D97-24268A5D5BB0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{002E1311-B339-3D9C-AC49-8BD9CFC5A4DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake">
+      <UniqueIdentifier>{0014E472-8FB4-31AD-A7F3-FF1206CE7A6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders">
+      <UniqueIdentifier>{D0401C2B-D8AC-3931-B260-69157A594FFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\CubeMapFramebufferShader">
+      <UniqueIdentifier>{4C48E454-C817-372D-AFF9-2754283B3801}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\CubeMapNormalShader">
+      <UniqueIdentifier>{8E2D25DE-8581-3956-ACA0-EC35E028AF3D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\CubeMapReflectionShader">
+      <UniqueIdentifier>{B38277A1-092C-34D0-A11F-9198B5D3ED52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\DeferredRender2TextureShader">
+      <UniqueIdentifier>{3E1652B8-DA3E-3C8F-BA1F-5EE3ACFB1D6A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\DeferredRenderCompositionShader">
+      <UniqueIdentifier>{03FF4E78-F516-3335-938F-F89DD147541F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\DeferredRenderLightPassShader">
+      <UniqueIdentifier>{9A78A523-FADB-3FE5-B4A0-43D15C501FB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\FallingStars">
+      <UniqueIdentifier>{DAAF6F14-8BBB-3A4C-B18A-7B33CC24CB12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\Firefly">
+      <UniqueIdentifier>{03B14621-8E23-3590-8C24-7E4C6877373B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\DeferredRenderingLake\Shaders\WaterDrops">
+      <UniqueIdentifier>{8A91B532-92F9-38E4-AC6E-B10D774745AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\components">
+      <UniqueIdentifier>{D8FB7F2A-F705-3B5B-B5E1-8C62BB272A83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core">
+      <UniqueIdentifier>{97E309D8-9EC0-3830-AEEF-2E511E40D1C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\gpu">
+      <UniqueIdentifier>{C704115A-53B9-39E5-87DC-A523F9F1C0A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\managers">
+      <UniqueIdentifier>{FC1AB31C-1953-36E4-8E77-B8E54D56D443}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\core\window">
+      <UniqueIdentifier>{DB944EE5-359E-3F27-945B-6C7B6579CD08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\utils">
+      <UniqueIdentifier>{04B79D24-FE45-31FB-BF72-FDD550DD9F2E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

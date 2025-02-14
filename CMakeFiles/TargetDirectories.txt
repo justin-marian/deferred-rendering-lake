@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/deferred-rendering-lake/CMakeFiles/GFXFramework.dir
+C:/Users/Asus/Desktop/deferred-rendering-lake/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Desktop/deferred-rendering-lake/CMakeFiles/ZERO_CHECK.dir

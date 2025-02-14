@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\deferred-rendering-lake\CMakeFiles\f4e819af4f9fe934cbb1583dfbd2bd52\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7E579E17-0AAE-31D3-A8D3-6ABA3D7978AF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

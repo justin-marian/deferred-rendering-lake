@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\DEFERRED-RENDERING-LAKE\CMAKEFILES\F4E819AF4F9FE934CBB1583DFBD2BD52\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/deferred-rendering-lake -BC:/Users/Asus/Desktop/deferred-rendering-lake --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Desktop/deferred-rendering-lake/GFXFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
